@@ -1,7 +1,10 @@
 <Solution>
+  <Project Path="homework11/homework11.csproj" Id="0b3f7a6d-8781-46ae-8666-c4b6f1bd244b" />
   <Project Path="leason3/leason3.csproj" />
   <Project Path="Leson2/Leson2.csproj" />
   <Project Path="Lesson 6 homework/Lesson 6 homework.csproj" Id="8609b5d1-a281-40ba-8298-724df2af689c" />
+  <Project Path="Lesson12/Lesson12.csproj" Id="681b8151-c751-4a9c-9dba-48502f8bf218" />
+  <Project Path="Lesson14/Lesson14.csproj" Id="42bbbc1c-8d4d-4275-8dae-4d4a9ec0bf97" />
   <Project Path="Lesson4 homework/Lesson4 homework.csproj" Id="f7109d3b-cd68-4c25-9a29-351c0173ebeb" />
   <Project Path="Lesson5 Homework/Lesson5 Homework.csproj" Id="6144496f-b681-452a-a473-25f50818d3c7" />
   <Project Path="lesson5/lesson5.csproj" Id="9616585e-f551-4bfa-a69a-26e95685c101" />
@@ -9,4 +12,5 @@
   <Project Path="Lesson7/Lesson7.csproj" Id="68561b44-2e72-44f0-960b-f847799cdb68" />
   <Project Path="lesson8/lesson8.csproj" Id="92d7be65-f38c-4317-9a75-860fb8a26ef8" />
   <Project Path="Lesson8Homework/Lesson8Homework.csproj" Id="913d1312-19d4-4be2-9e9b-8f9c69c31276" />
+  <Project Path="Lesson9/Lesson9.csproj" Id="25d2878c-70c4-4e3b-8f45-8a34c26b8745" />
 </Solution>
